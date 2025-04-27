@@ -106,8 +106,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create an even fancier version that includes a “Project Pipeline” diagram or badges like “Built with Scikit-learn”, “Jupyter Notebook”, “License: MIT”, etc.?
-Could make your repo stand out even more!
