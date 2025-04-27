@@ -95,9 +95,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to draft a short “Future Work” section you could add to the README?
-(For example: trying deep learning models, hyperparameter tuning, or deploying as an API — looks very professional to recruiters!)
-Let me know!
