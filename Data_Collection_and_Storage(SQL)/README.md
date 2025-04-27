@@ -92,9 +92,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create a “bonus” version with a diagram of the database structure (ERD: Entity Relationship Diagram) to include in the README?
-It would make the project look even more professional!
-Let me know!
