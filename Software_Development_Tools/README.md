@@ -86,8 +86,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create a second version of this README that’s even more “developer-oriented” (for example, with installation and testing commands highlighted more prominently)?
-Or a short summary table listing all functions and tests you created? Let me know!
