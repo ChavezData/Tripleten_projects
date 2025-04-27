@@ -97,9 +97,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create a “Project Workflow Diagram” showing the major steps (Data → Preprocessing → Modeling → Evaluation → Conclusion)?
-It would make your README even more professional and polished!
-Let me know!
