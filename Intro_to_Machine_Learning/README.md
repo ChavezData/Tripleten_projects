@@ -98,9 +98,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to help you create a “Churn Prediction Business Value” section for this README?
-(That would explain how predicting churn impacts the business ROI, making your project even more recruiter-friendly!)
-Let me know!
