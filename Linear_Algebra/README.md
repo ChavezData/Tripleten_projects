@@ -92,9 +92,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create an optional “Math Techniques Glossary” you could add at the end of the README?
-(It would briefly explain terms like matrix multiplication, system solving, optimization — super useful for non-technical readers or recruiters!)
-Let me know!
