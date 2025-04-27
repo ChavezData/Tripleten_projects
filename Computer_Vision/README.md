@@ -94,10 +94,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create an extra version where I add a small “Model Architecture Diagram” you could include in the README?
-(Like a simple block diagram of the CNN flow: Input -> Conv -> Pool -> Conv -> Pool -> Dense -> Output?)
-It could make the repo even more visually attractive!
-Let me know!
