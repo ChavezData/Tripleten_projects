@@ -89,7 +89,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like a slightly fancier version with a project banner or badges (e.g., Python version, Jupyter, License badges)? I can whip that up too if you want!
