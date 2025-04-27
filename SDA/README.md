@@ -96,8 +96,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to write a very short version too (for people who just want a super quick read)?
-Or even an extended version with a diagram showing the hypothesis testing flow? Let me know!
