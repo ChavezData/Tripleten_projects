@@ -86,8 +86,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also want a version that includes some badges or a visual summary diagram at the top?
-I can also make a “quick start” version if you prefer a shorter README!
