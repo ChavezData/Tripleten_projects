@@ -98,9 +98,3 @@ Contact
 
 Chavez Data
 GitHub: @ChavezData
-
-⸻
-
-Would you also like me to create a “Business Problem and Solution Summary” one-pager you could attach in the README?
-It would make it look super professional — perfect if you’re planning to share this with recruiters or on LinkedIn!
-Let me know!
